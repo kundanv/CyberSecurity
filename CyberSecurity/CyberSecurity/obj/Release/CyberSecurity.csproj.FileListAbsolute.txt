@@ -9,3 +9,4 @@ C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity\obj
 C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity\obj\Release\CyberSecurity.dll
 C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity\obj\Release\CyberSecurity.pdb
 C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity\obj\Release\XapCacheFile.xml
+C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity\obj\Release\CyberSecurity.csprojResolveAssemblyReference.cache
