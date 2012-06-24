@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CyberSecurity")]
+[assembly: AssemblyTitle("CyberSecurity.Web")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CyberSecurity")]
+[assembly: AssemblyProduct("CyberSecurity.Web")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2c1923c6-2900-41ce-be33-1325b0f5a8d3")]
+[assembly: Guid("0b0614fa-215f-4740-a7d2-f31eb83ea52d")]
 
 // Version information for an assembly consists of the following four values:
 //
