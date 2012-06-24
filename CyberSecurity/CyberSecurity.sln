@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Web
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecurity", "CyberSecurity\CyberSecurity.csproj", "{8F05B35C-5CF4-4384-A2AA-77F20E3A481C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecurity", "CyberSecurity\CyberSecurity.csproj", "{82440167-61A7-4EB7-AA9B-5F87FF462481}"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CyberSecurity.Web", "http://localhost:50835", "{2DC4D455-492C-4B87-AAA2-5DF707543336}"
 	ProjectSection(WebsiteProperties) = preProject
@@ -13,7 +13,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CyberSecurity.Web", "http:/
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_50835"
 		DefaultWebSiteLanguage = "Visual C#"
-		ProjOutputReferences = "{8F05B35C-5CF4-4384-A2AA-77F20E3A481C}|ClientBin|false;"
+		ProjOutputReferences = "{82440167-61A7-4EB7-AA9B-5F87FF462481}|ClientBin|false;"
 		Release.AspNetCompiler.Debug = "False"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.ForceOverwrite = "true"
@@ -36,10 +36,10 @@ Global
 		{2DC4D455-492C-4B87-AAA2-5DF707543336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DC4D455-492C-4B87-AAA2-5DF707543336}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{2DC4D455-492C-4B87-AAA2-5DF707543336}.Release|Any CPU.Build.0 = Debug|Any CPU
-		{8F05B35C-5CF4-4384-A2AA-77F20E3A481C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F05B35C-5CF4-4384-A2AA-77F20E3A481C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F05B35C-5CF4-4384-A2AA-77F20E3A481C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F05B35C-5CF4-4384-A2AA-77F20E3A481C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82440167-61A7-4EB7-AA9B-5F87FF462481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82440167-61A7-4EB7-AA9B-5F87FF462481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82440167-61A7-4EB7-AA9B-5F87FF462481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82440167-61A7-4EB7-AA9B-5F87FF462481}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

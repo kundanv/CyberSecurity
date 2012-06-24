@@ -7,6 +7,6 @@
     d:DesignHeight="300" d:DesignWidth="400">
 
     <Grid x:Name="LayoutRoot" Background="White">
-<TextBlock Text="Fuck You Bastards" FontSize="22" Foreground="Red"></TextBlock>
+<TextBlock Text="Welcome Amigos" FontSize="22" Foreground="Red"/>
     </Grid>
 </UserControl>
