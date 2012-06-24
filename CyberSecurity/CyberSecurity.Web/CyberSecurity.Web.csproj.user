@@ -21,7 +21,8 @@
           <EnableENC>False</EnableENC>
           <AlwaysStartWebServerOnDebug>True</AlwaysStartWebServerOnDebug>
           <ProjectOutputReferences>
-            <Ref Project="{0222440D-8761-4718-ADEF-C03EBFAEC3E9}" Folder="ClientBin">CyberSecurity.xap</Ref>
+            <Ref Project="{0222440D-8761-4718-ADEF-C03EBFAEC3E9}" Folder="ClientBin">
+            </Ref>
           </ProjectOutputReferences>
         </WebProjectProperties>
       </FlavorProperties>
