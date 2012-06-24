@@ -1,4 +1,0 @@
-C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity.Web\bin\CyberSecurity.Web.dll
-C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity.Web\bin\CyberSecurity.Web.pdb
-C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity.Web\obj\Release\CyberSecurity.Web.dll
-C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity.Web\obj\Release\CyberSecurity.Web.pdb

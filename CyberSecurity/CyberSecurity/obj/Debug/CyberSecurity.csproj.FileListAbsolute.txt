@@ -3,7 +3,6 @@ C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity\Bin
 C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity\Bin\Debug\AppManifest.xaml
 C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity\Bin\Debug\CyberSecurity.xap
 C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity\Bin\Debug\CyberSecurityTestPage.html
-C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity\obj\Debug\CyberSecurity.csprojResolveAssemblyReference.cache
 C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity\obj\Debug\App.g.cs
 C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity\obj\Debug\MainPage.g.cs
 C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity\obj\Debug\CyberSecurity.g.resources

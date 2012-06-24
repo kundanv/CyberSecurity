@@ -1,5 +1,0 @@
-C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity.Web\bin\CyberSecurity.Web.dll
-C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity.Web\bin\CyberSecurity.Web.pdb
-C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity.Web\obj\Debug\CyberSecurity.Web.csprojResolveAssemblyReference.cache
-C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity.Web\obj\Debug\CyberSecurity.Web.dll
-C:\Users\Kundan's\Documents\GitHub\CyberSecurity\CyberSecurity\CyberSecurity.Web\obj\Debug\CyberSecurity.Web.pdb
